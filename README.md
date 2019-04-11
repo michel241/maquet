@@ -1,1 +1,1 @@
-# maquet
+# maquette
